@@ -22,5 +22,5 @@ Goal: the goal is to use data from a mental health survey to explore factors tha
 
 
 
-### Leaderboard:
+### Leaderboard (top 6%!):
 ![image](https://github.com/user-attachments/assets/08d669d3-1acc-48e8-9bdb-2e4763f5fe2e)
